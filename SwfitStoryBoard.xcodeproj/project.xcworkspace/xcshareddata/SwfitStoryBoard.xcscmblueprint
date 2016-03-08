@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "A9E489392FD848E91FA9F463E5191644EDE93287",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "A9E489392FD848E91FA9F463E5191644EDE93287" : 0,
+    "2C780E6CA8E8C2B9CB74FB13006D5851E3499C02" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "149C6A06-B71B-4F6B-99A5-E2C82FE30528",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "A9E489392FD848E91FA9F463E5191644EDE93287" : "BezierAndUIShapeLayer\/",
+    "2C780E6CA8E8C2B9CB74FB13006D5851E3499C02" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "SwfitStoryBoard",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "SwfitStoryBoard.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/xuyouhong\/BezierAndUIShapeLayer.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "2C780E6CA8E8C2B9CB74FB13006D5851E3499C02"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/xuyouhong\/BezierAndUIShapeLayer.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "A9E489392FD848E91FA9F463E5191644EDE93287"
+    }
+  ]
+}
